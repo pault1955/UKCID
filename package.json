@@ -1,10 +1,10 @@
 {
-  "name": "Susy-Template",
+  "name": "UKCID",
   "version": "0.0.1",
   "description": "Template built using the susy grid",
   "repository": {
     "type": "git",
-    "url": "https://github.com/pault1955/susyTemplate"
+    "url": "https://github.com/pault1955/UKCID"
   },
   "author": "Paul Tostevin",
   "devDependencies": {
